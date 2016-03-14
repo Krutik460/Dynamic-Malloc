@@ -27,15 +27,15 @@
  ********************************************************/
 team_t team = {
 	/* Team name */
-	"Darth Vaders",
+	"Hard Coders",
 	/* First member's full name */
-	"Aaska Shah",
+	"Aaditya Thakkar",
 	/* First member's email address */
-	"201401029@daiict.ac.in",
+	"201401009@daiict.ac.in",
 	/* Second member's full name (leave blank if none) */
-	"",
+	"Aaska Shah",
 	/* Second member's email address (leave blank if none) */
-	""
+	"201401029@daiict.ac.in"
 };
 
 /* Basic constants and macros: */
